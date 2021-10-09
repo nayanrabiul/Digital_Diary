@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "27409377489",
+    "firebase_url": "https://digital-diary-5902b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digital-diary-5902b",
+    "storage_bucket": "digital-diary-5902b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27409377489:android:5250c5e37b1bd830bb3df0",
+        "android_client_info": {
+          "package_name": "com.example.android.digitaldiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27409377489-2kds9gscv6t0eik88bphjpobighmbub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6N_I6fT2HXrriUGYqyi8v111SRrzOsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27409377489-2kds9gscv6t0eik88bphjpobighmbub9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27409377489:android:a0d3a7a0b083db81bb3df0",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27409377489-2kds9gscv6t0eik88bphjpobighmbub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6N_I6fT2HXrriUGYqyi8v111SRrzOsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27409377489-2kds9gscv6t0eik88bphjpobighmbub9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
